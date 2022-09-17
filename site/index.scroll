@@ -1,7 +1,7 @@
 import settings.scroll
 
 css
- .scrollFilePageComponent { text-align: center;}
+ .scrollFilePageComponent { text-align: left;}
 
 import searchForm.scroll
 
