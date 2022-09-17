@@ -1,6 +1,8 @@
 title Ballerina
 appeared 2015
 type pl
+originCommunity WSO2
+country United States
 creators Sanjiva Weerawarana and James Clark
 website http://ballerina.io/
 webRepl https://play.ballerina.io/
@@ -103,7 +105,7 @@ leachim6 Ballerina
 
 packageRepository https://central.ballerina.io/
 
-twitter ballerinalang
+twitter https://twitter.com/ballerinalang
 fileType text
 isOpenSource true
 

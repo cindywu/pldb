@@ -1,6 +1,8 @@
 title Microsoft Azure
 appeared 2010
 type cloud
+originCommunity Microsoft
+country United States
 website https://azure.microsoft.com
 domainName azure.microsoft.com
 
@@ -21,7 +23,7 @@ meetup microsoft-azure
  memberCount 131967
  groupCount 386
 
-twitter azure
+twitter https://twitter.com/azure
 fileType text
 isOpenSource false
 centralPackageRepositoryCount 0

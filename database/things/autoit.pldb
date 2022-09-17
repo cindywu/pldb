@@ -1,6 +1,8 @@
 title AutoIt
 appeared 1999
 type pl
+originCommunity AutoIt Consulting Ltd
+country Unknown
 creators Jonathan Bennett
 website http://www.autoitscript.com/autoit3/
 
@@ -114,7 +116,7 @@ rosettaCode AutoIt
 
 tiobe AutoIt
 
-twitter autoitconsult
+twitter https://twitter.com/autoitconsult
 fileType text
 isOpenSource true
 centralPackageRepositoryCount 0
