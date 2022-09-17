@@ -6,7 +6,6 @@ site/languages/*.scroll
 *Imports.scroll
 site/pldb.grammar
 site/scroll.css
-*.html
 *.csv
 *.json
 *.xml
