@@ -14,15 +14,15 @@ scrollHeader
   src BASE_URL/search.js
  div
   class pldbHeader
-  a PLDB
+  a WhateverDB
    href BASE_URL/index.html
    class logoFont
   form
-   style display:inline-block;
+   style display:inline-block; font-size: 0.8em;
    input
     type search
     id headerSearch
-    placeholder Search
+    placeholder What's on your mind?
     autocomplete off
   a Languages
    href BASE_URL/lists/top500.html
